@@ -1,0 +1,4 @@
+# start_m end_m speed_limit_mps
+0 500 25
+500 1200 20
+1200 2000 15
